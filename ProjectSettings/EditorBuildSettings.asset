@@ -8,6 +8,24 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Oculus/LipSync/Scenes/LipSync_Demo.unity
     guid: 0a5206cd53b21be4588ef635952929e9
+  - enabled: 1
+    path: Assets/Scenes/FirstPage.unity
+    guid: f11ac62652c87c84bb4eca4ea24b1b86
+  - enabled: 1
+    path: Assets/Scenes/SelectPersona 1.unity
+    guid: 23a439bb6ef860d43b99d3b69cbc95ba
+  - enabled: 1
+    path: Assets/Scenes/Let'sGetStarted.unity
+    guid: f33a4073c925884478042f404a424d13
+  - enabled: 1
+    path: Assets/Scenes/selectAnExperience.unity
+    guid: b976741594db79a49a895ed2dde269ce
+  - enabled: 1
+    path: Assets/Scenes/mainScene.unity
+    guid: 4a93e4f12fcaf3d47834fd0b384b4acf
+  - enabled: 1
+    path: Assets/Scenes/end.unity
+    guid: 6adcc323ee9280c499cc5fcfadbfff24
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ea02fa56107f5f440b021159724b1494,
       type: 2}
