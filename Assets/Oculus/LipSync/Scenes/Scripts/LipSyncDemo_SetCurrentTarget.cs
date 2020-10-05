@@ -44,7 +44,7 @@ public class LipSyncDemo_SetCurrentTarget : MonoBehaviour
         // Initialize the proper target set
         targetSet = 0;
         SwitchTargets[0].SetActive<OVRLipSyncContextMorphTarget>(0);
-        SwitchTargets[1].SetActive<OVRLipSyncContextMorphTarget>(0);
+      //  SwitchTargets[1].SetActive<OVRLipSyncContextMorphTarget>(0);
     }
 
     // Update is called once per frame
