@@ -37,6 +37,7 @@ public class SceneSwitcher : MonoBehaviour
     public void Exit()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+
     }
 
 }
